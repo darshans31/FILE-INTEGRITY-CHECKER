@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
+#output
+<img width="1920" height="310" alt="Image" src="https://github.com/user-attachments/assets/3e3fdc42-3333-4ed6-8db7-fb10d77f2324" />
 
 ### Description of the Code and Its Workflow
 
